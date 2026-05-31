@@ -1,0 +1,731 @@
+﻿FID,OBJECTID,Location,State,Water_Cont,Material,Damae_Int2,Economic,District,ID,Fail_Type,Date,Distri_,Death_,Settlemet_,Dam_Int1,Area,Triggers_
+0,1, , , , , , ,Cox's Bazar,1,Flow,2015, ,0,0, ,1020, 
+1,2, , , , , , ,Cox's Bazar,2,Flow,2015, ,0,0, ,1433, 
+2,3, , , , , , ,Cox's Bazar,3,Flow,2015, ,0,0, ,451, 
+3,4, , , , , , ,Cox's Bazar,4,Flow,2015, ,0,0, ,1471, 
+4,5, , , , , , ,Cox's Bazar,5,Flow,2015, ,0,0, ,663, 
+5,6, , , , , , ,Cox's Bazar,6,Slide,2015, ,0,0, ,1145, 
+6,7, , , , , , ,Cox's Bazar,7,Slide,2015, ,0,0, ,1356, 
+7,8, , , , , , ,Cox's Bazar,8,Slide,2015, ,0,0, ,1745, 
+8,9, , , , , , ,Cox's Bazar,9,Slide,2015, ,0,0, ,993, 
+9,10, , , , , , ,Cox's Bazar,10,Slide,2015, ,0,0, ,1683, 
+10,11, , , , , , ,Cox's Bazar,11,Complex,2015, ,0,0, ,27623, 
+11,12, , , , , , ,Cox's Bazar,12,Slide,2015, ,0,0, ,1587, 
+12,13, , , , , , ,Cox's Bazar,13,Slide,2015, ,0,0, ,1562, 
+13,14, , , , , , ,Cox's Bazar,14,Slide,2015, ,0,0, ,2143, 
+14,15, , , , , , ,Cox's Bazar,15,Unrecognized,2015, ,0,0, ,1019, 
+15,16, , , , , , ,Cox's Bazar,16,Flow,2015, ,0,0, ,2666, 
+16,17, , , , , , ,Cox's Bazar,17,Unrecognized,2015, ,0,0, ,6540, 
+17,18, , , , , , ,Cox's Bazar,18,Slide,2015, ,0,0, ,2008, 
+18,19, , , , , , ,Cox's Bazar,19,Unrecognized,2015, ,0,0, ,1888, 
+19,20, , , , , , ,Cox's Bazar,20,Unrecognized,2015, ,0,0, ,1391, 
+20,21, , , , , , ,Cox's Bazar,21,Unrecognized,2015, ,0,0, ,1896, 
+21,22, , , , , , ,Cox's Bazar,22,Unrecognized,2015, ,0,0, ,3619, 
+22,23, , , , , , ,Cox's Bazar,23,Slide,2015, ,0,0, ,2588, 
+23,24, , , , , , ,Cox's Bazar,24,Slide,2015, ,0,0, ,1971, 
+24,25, , , , , , ,Cox's Bazar,25,Unrecognized,2015, ,0,0, ,2648, 
+25,26, , , , , , ,Cox's Bazar,26,Unrecognized,2015, ,0,0, ,4915, 
+26,27, , , , , , ,Cox's Bazar,27,Unrecognized,2015, ,0,0, ,2659, 
+27,28, , , , , , ,Cox's Bazar,28,Unrecognized,2015, ,0,0, ,1464, 
+28,29, , , , , , ,Cox's Bazar,29,Slide,2015, ,0,0, ,2255, 
+29,30, , , , , , ,Cox's Bazar,30,Slide,2015, ,0,0, ,1604, 
+30,31, , , , , , ,Cox's Bazar,31,Slide,2015, ,0,0, ,631, 
+31,32, , , , , , ,Cox's Bazar,32,Flow,2015, ,0,0, ,2285, 
+32,33, , , , , , ,Cox's Bazar,33,Slide,2015, ,0,0, ,12488, 
+33,34, , , , , , ,Cox's Bazar,34,Flow,2015, ,0,0, ,2233, 
+34,35, , , , , , ,Cox's Bazar,35,Flow,2015, ,0,0, ,2231, 
+35,36, , , , , , ,Cox's Bazar,36,Flow,2015, ,0,0, ,2236, 
+36,37, , , , , , ,Cox's Bazar,37,Slide,2015, ,0,0, ,752, 
+37,38, , , , , , ,Cox's Bazar,38,Unrecognized,2015, ,0,0, ,2379, 
+38,39, , , , , , ,Cox's Bazar,39,Unrecognized,2015, ,0,0, ,1219, 
+39,40, , , , , , ,Cox's Bazar,40,Unrecognized,2015, ,0,0, ,334, 
+40,41, , , , , , ,Cox's Bazar,41,Unrecognized,2015, ,0,0, ,684, 
+41,42, , , , , , ,Cox's Bazar,42,Unrecognized,2015, ,0,0, ,3643, 
+42,43, , , , , , ,Cox's Bazar,43,Slide,2015, ,0,0, ,5480, 
+43,44, , , , , , ,Cox's Bazar,44,Flow,2015, ,0,0, ,3082, 
+44,45, , , , , , ,Cox's Bazar,45,Flow,2015, ,0,0, ,1533, 
+45,46, , , , , , ,Cox's Bazar,46,Slide,2015, ,0,0, ,611, 
+46,47,Adorsha Gram,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,47,Fall,13/06/2010, ,0,1,Medium,-,Rainfall and Hill Cutting
+47,48,Adorsha Gram,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,48,Fall,13/06/2010, ,0,3,High,-,Rainfall and Hill Cutting
+48,49,Adorsha Gram,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,49,Flow,13/06/2010,Advancing,0,1,Medium,-,Rainfall and Hill Cutting
+49,50,Adorsha Gram,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,50,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+50,51,Adorsha Gram,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,51,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+51,52,South Ganar Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,52,Flow,14/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+52,53,Mohajer Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,53,Flow,14/06/2010,Advancing,1,0,Nil,-,Rainfall and Hill Cutting
+53,54,Mohajer Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,54,Flow,14/06/2010,Advancing,1,0,Nil,-,Rainfall and Hill Cutting
+54,55,Mohajer Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,55,Slide,06/06/2008,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+55,56,South Ganar Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,56,Slide,14/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+56,57,Kolatali by Pass,Suspended, ,Soil,Nil,Low,Cox's Bazar,57,Slide,14/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+57,58,Mohajer Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,58,Flow,06/06/2008,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+58,59,Mohajer Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,59,Slide,06/06/2008,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+59,60,Kolatali by pass,Suspended, ,Soil,Nil,Low,Cox's Bazar,60,Slide,14/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+60,61,Mohajer Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,61,Flow,06/06/2008,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+61,62,Kolatali by pass,Suspended, ,Soil,Nil,Low,Cox's Bazar,62,Flow,14/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+62,63,Kolatali by pass,Suspended, ,Soil,Nil,Low,Cox's Bazar,63,Slide,14/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+63,64,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,64,Slide,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+64,65,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,65,Flow,15/06/2003,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+65,66,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,66,Slide,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+66,67,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,67,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+67,68,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,68,Flow,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+68,69,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,69,Fall,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+69,70,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,70,Fall,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+70,71,West Lar Para,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,71,Complex,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+71,72,Larpara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,72,Slide,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+72,73,Larpara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,73,Fall,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+73,74,Larpara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,74,Flow,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+74,75,Larpara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,75,Flow,03/07/2008,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+75,76,South Dikkul,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,76,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+76,77,South Dikkul,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,77,Flow,19/06/2009,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+77,78,South Hajipara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,78,Slide,03/07/2008,Advancing,0,2,High,-,Rainfall and Hill Cutting
+78,79,South Hajipara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,79,Slide,04/06/2006,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+79,80,South Hajipara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,80,Flow,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+80,81,South Hajipara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,81,Flow,04/07/2004,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+81,82,South Hajipara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,82,Slide,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+82,83,South Hajipara,Suspended, ,Weatherd Rock and Soil,Nil,Low,Cox's Bazar,83,Slide,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+83,84,Badshar Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,84,Slide,15/06/2010,Advancing,0,1,Low,-,Rainfall
+84,85,Badshar Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,85,Slide,15/06/2010,Advancing,0,1,Low,-,Rainfall
+85,86,East Light House Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,86,Unrecognized,15/06/2010,Advancing,1,1,Low,-,Rainfall
+86,87,East Light House Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,87,Unrecognized,03/07/2008,Advancing,0,1,Low,-,Rainfall
+87,88,East Light House Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,88,Unrecognized,15/06/2010,Advancing,0,1,Low,-,Rainfall
+88,89,East Light House Para,Suspended, ,Soil,Nil,Low,Cox's Bazar,89,Unrecognized,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+89,90,Pahartali,Suspended, ,Soil,Nil,Low,Cox's Bazar,90,Flow,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+90,91,Pahartali,Suspended, ,Soil,Nil,Low,Cox's Bazar,91,Slide,15/06/2010,Advancing,0,2,Medium,-,Rainfall and Hill Cutting
+91,92,Pahartali,Suspended, ,Soil,Nil,Low,Cox's Bazar,92,Slide,15/06/2010,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+92,93,Pahartali,Suspended, ,Soil,Nil,Low,Cox's Bazar,93,Slide,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+93,94,Bahar Chara,Suspended, ,Soil,Nil,Low,Cox's Bazar,94,Slide,15/06/2010,Advancing,0,1,Low,-,Rainfall
+94,95,Bahar Chara,Suspended, ,Soil,Nil,Low,Cox's Bazar,95,Slide,15/06/2010,Advancing,0,0,Nil,-,Rainfall
+95,96,Bahar Chara,Suspended, ,Soil,Nil,Low,Cox's Bazar,96,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall
+96,97,Bahar Chara,Suspended, ,Soil,Nil,Low,Cox's Bazar,97,Slide,15/06/2010,Advancing,0,0,Nil,-,Rainfall
+97,98,"Marine Drive, Cox's Bazar",Suspended, ,Soil,High,High,Cox's Bazar,98,Slide,15/06/2010, ,0,0,Nil,-,Rainfall
+98,99,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,99,Slide,15/06/2010, ,5,0,Nil,-,Rainfall and Hill Cutting
+99,100,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,100,Unrecognized,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+100,101,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,101,Unrecognized,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+101,102,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,102,Unrecognized,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+102,103,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,103,Flow,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+103,104,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,104,Flow,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+104,105,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,105,Flow,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+105,106,"Marine Drive, Cox's Bazar",Inactive, ,Soil,High,High,Cox's Bazar,106,Flow,15/06/2010, ,0,0,Nil,-,Rainfall and Hill Cutting
+106,107,Kolatali,Suspended, ,Soil,Nil,Low,Cox's Bazar,107,Flow,15/06/2010,Advancing,1,1,Low,-,Rainfall and Hill Cutting
+107,108,Kolatali,Suspended, ,Soil,Nil,Low,Cox's Bazar,108,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+108,109,Baidder Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,109,Flow,15/06/2010,Advancing,1,0,Nil,-,Rainfall and Hill Cutting
+109,110,Baidder Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,110,Flow,03/07/2008,Advancing,0,1,Low,-,Rainfall and Hill Cutting
+110,111,Baidder Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,111,Flow,04/06/2006,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+111,112,Baidder Ghona,Suspended, ,Soil,Nil,Low,Cox's Bazar,112,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+112,113,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,113,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+113,114,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,114,Flow,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+114,115,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,115,Unrecognized,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+115,116,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,116,Unrecognized,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+116,117,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,117,Slide,03/06/2009,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+117,118,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,118,Slide,07/06/2002,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+118,119,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,119,Unrecognized,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+119,120,"Urumchara, Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,120,Unrecognized,15/06/2010,Advancing,0,0,Nil,-,Rainfall and Hill Cutting
+120,121,"Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,121,Flow,15/06/2010,Advancing,1,0,Low,-,Rainfall and Hill Cutting
+121,122,"Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,122,Flow,15/06/2010,Advancing,6,1,Low,-,Rainfall and Hill Cutting
+122,123,"Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,123,Unrecognized,15/06/2010,Advancing,4,1,Low,-,Rainfall and Hill Cutting
+123,124,"Puran pallan Para, Teknaf",Suspended, ,Soil,Nil,Low,Cox's Bazar,124,Flow,15/06/2010,Advancing,5,1,Low,-,Rainfall and Hill Cutting
+124,125,"Siidique Nagar, Bonorupa",Active,Wet,Soil,Low,Low,Bandarban,125,Slide,13/06/2017,Advancing,0,0,Nil,37,Rainfall and Hill Cutting
+125,126,"Siidique Nagar, Bonorupa",Active,Wet,Soil,Nil,Low,Bandarban,126,Flow,13/06/2017,Advancing,2,0,Nil,51,Rainfall
+126,127,Bonorupa para Kollan Shamiti,Active,Wet,Soil,Nil,Low,Bandarban,127,Flow,13/06/2017,Advancing,0,0,Nil,13,Rainfall
+127,128,Bonorupa para Kollan Shamiti,Active,Wet,Debris,Nil,Low,Bandarban,128,Flow,13/06/2017,Advancing,0,0,Nil,21,Rainfall
+128,129,Bonorupa para Kollan Shamiti,Active,Wet,Soil,Nil,Low,Bandarban,129,Flow,13/06/2017,Advancing,0,1,Low,31,Rainfall
+129,130,Bonorupa para Kollan Shamiti,Suspended,Dry,Soil,Nil,High,Bandarban,130,Slide,01/05/2016,Advancing,2,2,High,55,Rainfall and Hill Cutting
+130,131,"Ruma, On Road",Active,Wet,Debris,Medium,Medium,Bandarban,131,Slide,13/06/2017,Advancing,0,0,Nil,109,Rainfall
+131,132,"Ruma, On Road",Active,Wet,Debris,Medium,Medium,Bandarban,132,Complex,13/06/2017,Advancing,0,0,Nil,174,Rainfall
+132,133,"Ruma, On Road",Active,Wet,Soil,Nil,Low,Bandarban,133,Slide,13/06/2017,Advancing,0,0,Nil,79,Rainfall
+133,134,"Ruma, On Road",Active,Wet,Soil,Nil,Low,Bandarban,134,Complex,13/06/2017,Advancing,0,0,Nil,55,Rainfall
+134,135,"Ruma, On Road",Active,Wet,Soil,Nil,Low,Bandarban,135,Fall,13/06/2017,Advancing,0,0,Nil,501,Rainfall
+135,136,"Ruma, On road",Active,Wet,Debris,Nil,Low,Bandarban,136,Fall,13/06/2017,Advancing,0,0,Nil,45,Rainfall
+136,137,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,137,Fall,13/06/2017,Advancing,0,0,Nil,274,Rainfall
+137,138,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,138,Fall,13/06/2017,Advancing,0,0,Nil,89,Rainfall
+138,139,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,139,Complex,13/06/2017,Advancing,0,0,Nil,1339,Rainfall
+139,140,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,140,Complex,13/06/2017,Advancing,0,0,Nil,233,Rainfall
+140,141,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,141,Complex,13/06/2017,Advancing,0,0,Nil,126,Rainfall
+141,142,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,142,Flow,13/06/2017,Advancing,0,0,Nil,188,Rainfall
+142,143,"Y Junction, On Road",Active,Wet,Rock and Soil,Nil,Low,Bandarban,143,Complex,13/06/2017,Advancing,0,0,Nil,52,Rainfall
+143,144,"Y Junction, On Road",Active,Wet,Soil,Nil,Low,Bandarban,144,Complex,13/06/2017,Advancing,0,0,Nil,125,Rainfall
+144,145,"Y Junction, On Road",Active,Wet,Rock and Soil,Nil,Low,Bandarban,145,Flow,13/06/2017,Advancing,0,0,Nil,1288,Rainfall
+145,146,"Y Junction, On Road",Active,Wet,Mixture,High,High,Bandarban,146,Complex,13/06/2017,Advancing,5,0,Nil,1098,Rainfall and Road Cut
+146,147,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Low,Low,Bandarban,147,Slide,13/06/2017,Advancing,0,0,Nil,128,Rainfall
+147,148,"Head Post Office, Chimbuk Road",Active,Wet,Soil,Low,Low,Bandarban,148,Fall,13/06/2017,Advancing,0,0,Nil,457,Rainfall and Hill Cutting
+148,149,"Head Post Office, Chimbuk Road",Active,Wet,Soil,Low,Low,Bandarban,149,Fall,13/06/2017,Advancing,0,0,Nil,536,Rainfall and Hill Cutting
+149,150,"Head Post Office, Chimbuk Road",Active,Wet,Soil,Low,Low,Bandarban,150,Slide,13/06/2017,Advancing,0,0,Nil,48,Rainfall
+150,151,"Hafezgona, Chimbuk Road",Active,Wet,Mixture,Low,High,Bandarban,151,Flow,13/06/2017,Advancing,0,5,High,22,Rainfall and Hill Cutting
+151,152,"Hafezgona, Chimbuk Road",Active,Wet,Soil,Nil,Low,Bandarban,152,Flow,13/06/2017,Advancing,0,0,Nil,58,Rainfall
+152,153,"Hafezgona, Chimbuk Road",Active,Wet,Debris,Nil,Low,Bandarban,153,Flow,10/07/2017,Retrogressive,0,1,Low,45,Rainfall and Hill Cutting
+153,154,"Hafezgona, Chimbuk Road",Active,Wet,Soil,Nil,Low,Bandarban,154,Complex,10/07/2017,Retrogressive,0,0,Nil,126,Rainfall
+154,155,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Low,Low,Bandarban,155,Slide,10/07/2017,Advancing,0,0,Nil,269,Rainfall
+155,156,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Low,Low,Bandarban,156,Flow,13/06/2017,Advancing,0,0,Nil,58,Rainfall
+156,157,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Nil,Low,Bandarban,157,Slide,13/06/2017,Advancing,0,0,Nil,30,Rainfall
+157,158,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Medium,Low,Bandarban,158,Slide,13/06/2017,Retrogressive,0,0,Nil,30,Rainfall
+158,159,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Nil,Low,Bandarban,159,Slide,13/06/2017,Advancing,0,0,Nil,27,Rainfall
+159,160,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Nil,Low,Bandarban,160,Slide,13/06/2017,Advancing,0,0,Nil,35,Rainfall
+160,161,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Nil,Low,Bandarban,161,Flow,13/06/2017,Advancing,0,0,Nil,11,Rainfall
+161,162,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Nil,Low,Bandarban,162,Flow,13/06/2017,Advancing,0,0,Nil,195,Rainfall
+162,163,Laima Para,Active,Wet,Debris,Nil,Low,Bandarban,163,Flow,13/06/2017,Advancing,0,0,Nil,177,Rainfall
+163,164,Laima Para,Active,Wet,Soil,Nil,Low,Bandarban,164,Flow,13/06/2017,Advancing,0,0,Nil,166,Rainfall
+164,165,"Laima Para, On Road",Active,Wet,Soil,Low,Low,Bandarban,165,Flow,13/06/2017,Advancing,0,0,Nil,544,Rainfall
+165,166,"Laima Para, On Road",Active,Wet,Soil,Low,Low,Bandarban,166,Slide,13/06/2017,Advancing,0,0,Nil,119,Rainfall
+166,167,"Laima Para, On Road",Active,Wet,Soil,Low,Low,Bandarban,167,Slide,13/06/2017,Advancing,0,0,Nil,25,Rainfall
+167,168,"Laima Para, On Road",Active,Wet,Debris,Low,Low,Bandarban,168,Slide,13/06/2017,Advancing,0,0,Nil,16,Rainfall
+168,169,"Ruma, On Road",Active,Wet,Soil,Low,Low,Bandarban,169,Flow,13/06/2017,Retrogressive,0,0,Nil,33,Rainfall
+169,170,"Laima Para, On Road",Active,Wet,Soil,Low,Low,Bandarban,170,Fall,13/06/2017,Advancing,0,0,Nil,18,Rainfall
+170,171,"Laima Para, On Road",Active,Wet,Mixture,Low,Low,Bandarban,171,Complex,13/06/2017,Advancing,0,0,Nil,96,Rainfall
+171,172,"10 Miles, Ruma",Suspended,Dry,Mixture,High,High,Bandarban,172,Slide,01/06/2016,Retrogressive,0,0,Nil,7892,Rainfall and Road Cut
+172,173,"10 Miles, Ruma",Suspended,Dry,Mixture,High,High,Bandarban,173,Slide,01/06/2016,Advancing,0,0,Nil,6480,Rainfall
+173,174,"10 Miles, Ruma",Suspended,Wet,Soil,Low,Low,Bandarban,174,Slide,01/06/2016,Advancing,0,0,Nil,512,Rainfall
+174,175,"10 Miles, Ruma",Active,Wet,Soil,Low,Low,Bandarban,175,Flow,13/06/2017,Advancing,0,0,Nil,599,Rainfall
+175,176,"10 Miles, Ruma",Active,Wet,Soil,Low,Low,Bandarban,176,Flow,13/06/2017,Advancing,0,0,Nil,50,Rainfall
+176,177,"10 Miles, Ruma",Active,Wet,Soil,Low,Low,Bandarban,177,Slide,13/06/2017,Advancing,0,0,Nil,297,Rainfall
+177,178,"10 Miles, Ruma",Active,Wet,Soil,Low,Low,Bandarban,178,Complex,13/06/2017,Advancing,0,0,Nil,84,Rainfall
+178,179,"10 Miles, Ruma",Active,Wet,Soil,Low,Low,Bandarban,179,Slide,13/06/2017,Advancing,0,0,Nil,30,Rainfall
+179,180,"10 Miles, Ruma",Active,Wet,Soil,Low,Low,Bandarban,180,Slide,13/06/2017,Advancing,0,0,Nil,128,Rainfall
+180,181,"Hafezgona, Chimbuk Road, On Road",Active,Wet,Soil,Low,Low,Bandarban,181,Flow,13/06/2017,Advancing,0,0,Nil,41,Rainfall
+181,182,Amro Kanan Buddisht Temple,Active,Wet,Soil,Low,Low,Bandarban,182,Flow,13/06/2017,Advancing,0,0,Nil,19,Rainfall
+182,183,Amro Kanan Buddisht Temple,Active,Wet,Soil,Low,Low,Bandarban,183,Flow,13/06/2017,Advancing,0,0,Nil,20,Rainfall
+183,184,Kalaghata Road,Active,Wet,Soil,Low,Medium,Bandarban,184,Flow,13/06/2017,Advancing,0,2,Medium,32,Rainfall
+184,185,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,185,Flow,13/06/2017,Advancing,0,3,Medium,48,Rainfall
+185,186,Kalaghata Road,Active,Wet,Debris,Nil,Low,Bandarban,186,Flow,13/06/2017,Advancing,0,0,Nil,22,Rainfall
+186,187,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,187,Flow,13/06/2017,Advancing,0,0,Nil,39,Rainfall
+187,188,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,188,Flow,13/06/2017,Advancing,0,0,Nil,14,Rainfall
+188,189,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,189,Flow,13/06/2017,Advancing,0,0,Nil,30,Rainfall
+189,190,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,190,Flow,13/06/2017,Advancing,0,0,Nil,19,Rainfall
+190,191,Kalaghata Road,Active,Wet,Soil,Nil,High,Bandarban,191,Complex,13/06/2017,Advancing,0,4,High,54,Rainfall
+191,192,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,192,Fall,13/06/2017,Advancing,0,0,Nil,47,Rainfall
+192,193,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,193,Fall,13/06/2017,Advancing,0,0,Nil,42,Rainfall
+193,194,Kalaghata Road,Active,Wet,Soil,Nil,Low,Bandarban,194,Slide,13/06/2017,Advancing,0,0,Nil,59,Rainfall
+194,195,Kalaghata Borotek,Active,Wet,Soil,Nil,Low,Bandarban,195,Complex,13/06/2017,Advancing,0,0,Nil,24,Rainfall
+195,196,Kalaghata Borotek,Active,Wet,Soil,Nil,Low,Bandarban,196,Complex,13/06/2017,Advancing,0,0,Nil,55,Rainfall
+196,197,Kalaghata Borotek,Active,Wet,Soil,Nil,Low,Bandarban,197,Complex,13/06/2017,Advancing,0,0,Nil,49,Rainfall
+197,198,Kalaghata Borotek,Active,Wet,Soil,Nil,Low,Bandarban,198,Flow,13/06/2017,Advancing,0,0,Nil,33,Rainfall
+198,199,"Islampur, Bandarban Sadar",Active,Wet,Debris,Nil,Low,Bandarban,199,Slide,13/06/2017,Retrogressive,0,2,Medium,43,Rainfall and Hill Cutting
+199,200,Kalaghata Borotek,Active,Wet,Soil,Nil,Low,Bandarban,200,Flow,13/06/2017,Advancing,0,0,Nil,923,Rainfall
+200,201,Kalaghata Borotek,Active,Wet,Soil,Nil,Low,Bandarban,201,Flow,13/06/2017,Advancing,0,0,Nil,157,Rainfall
+201,202,"Islampur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,202,Flow,13/06/2017,Advancing,0,1,Low,138,Rainfall
+202,203,"Islampur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,203,Flow,13/06/2017,Advancing,0,0,Nil,86,Rainfall
+203,204,"Islampur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,204,Flow,13/06/2017,Advancing,0,0,Nil,90,Rainfall
+204,205,"Bus Station, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,205,Flow,10/06/2016,Advancing,0,0,Nil,54,Rainfall
+205,206,"Bus Station, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,206,Unrecognized,10/06/2016,Advancing,0,0,Nil,150,Rainfall
+206,207,"Bus Station, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,207,Unrecognized,13/06/2017,Advancing,0,0,Nil,315,Rainfall
+207,208,"Kashimpur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,208,Unrecognized,13/06/2017,Advancing,0,0,Nil,12,Rainfall
+208,209,"Kashimpur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,209,Flow,13/06/2017,Advancing,0,0,Nil,16,Rainfall
+209,210,"Kashimpur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,210,Flow,13/06/2017,Advancing,0,0,Nil,26,Rainfall
+210,211,"Kashimpur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,211,Flow,13/06/2017,Advancing,0,0,Nil,38,Rainfall
+211,212,"Kashimpur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,212,Flow,13/06/2017,Advancing,0,0,Nil,79,Rainfall
+212,213,"Kashimpur, Bandarban Sadar",Active,Wet,Soil,Nil,Low,Bandarban,213,Flow,13/06/2017,Advancing,0,0,Nil,69,Rainfall
+213,214,Lemuchiri,Active,Wet,Mixture,Nil,High,Bandarban,214,Flow,13/06/2017,Advancing,3,3,High,297,Rainfall and Hill Cutting
+214,215,Lemuchiri,Active,Wet,Soil,Nil,Low,Bandarban,215,Flow,13/06/2017,Advancing,0,0,Nil,17,Rainfall
+215,216,Lemuchiri,Active,Wet,Soil,Nil,Low,Bandarban,216,Flow,13/06/2017,Advancing,0,0,Nil,49,Rainfall
+216,217,Lemuchiri,Active,Wet,Soil,Nil,Low,Bandarban,217,Flow,13/06/2017,Advancing,0,0,Nil,58,Rainfall
+217,218,"Lemuchiri , On Raod",Active,Wet,Soil,Low,Low,Bandarban,218,Flow,13/06/2017,Advancing,0,0,Nil,41,Rainfall
+218,219,"Lemuchiri , On Raod",Active,Wet,Soil,Nil,Low,Bandarban,219,Flow,13/06/2017,Advancing,0,0,Nil,65,Rainfall
+219,220,"Lemuchiri , On Raod",Active,Wet,Soil,Nil,Low,Bandarban,220,Flow,13/06/2017,Advancing,0,0,Nil,349,Rainfall
+220,221,"Lemuchiri , On Road",Active,Wet,Soil,Low,Low,Bandarban,221,Flow,13/06/2017,Advancing,0,0,Nil,28,Rainfall
+221,222,"Lemuchiri , On Raod",Active,Wet,Soil,Nil,Low,Bandarban,222,Flow,13/06/2017,Advancing,0,0,Nil,116,Rainfall
+222,223,"Lemuchiri , On Raod",Active,Wet,Soil,Nil,Low,Bandarban,223,Flow,13/06/2017,Advancing,0,0,Nil,388,Rainfall
+223,224,Lemuchara,Active,Wet,Soil,Nil,Low,Bandarban,224,Flow,13/06/2017,Advancing,0,0,Nil,24,Rainfall
+224,225, , , , , , ,Bandarban,225,Flow,2015, ,0,0, ,12287, 
+225,226, , , , , , ,Bandarban,226,Slide,2015, ,0,0, ,2419, 
+226,227, , , , , , ,Bandarban,227,Unrecognized,2015, ,0,0, ,2982, 
+227,228, , , , , , ,Bandarban,228,Unrecognized,2015, ,0,0, ,5590, 
+228,229, , , , , , ,Bandarban,229,Unrecognized,2015, ,0,0, ,5232, 
+229,230, , , , , , ,Bandarban,230,Flow,2016, ,0,0, ,523, 
+230,231, , , , , , ,Bandarban,231,Slide,2015, ,0,0, ,945, 
+231,232, , , , , , ,Bandarban,232,Complex,2015, ,0,0, ,85202, 
+232,233, , , , , , ,Bandarban,233,Slide,2016, ,0,0, ,5844, 
+233,234, , , , , , ,Bandarban,234,Flow,2016, ,0,0, ,4867, 
+234,235, , , , , , ,Bandarban,235,Slide,2016, ,0,0, ,1407, 
+235,236, , , , , , ,Bandarban,236,Unrecognized,2015, ,0,0, ,2024, 
+236,237, , , , , , ,Bandarban,237,Unrecognized, , ,0,0, ,11390, 
+237,238, , , , , , ,Bandarban,238,Unrecognized,2015, ,0,0, ,29189, 
+238,239, , , , , , ,Bandarban,239,Unrecognized,2015, ,0,0, ,899, 
+239,240, , , , , , ,Bandarban,240,Unrecognized,2015, ,0,0, ,10020, 
+240,241, , , , , , ,Bandarban,241,Unrecognized,2015, ,0,0, ,1204, 
+241,242, , , , , , ,Bandarban,242,Unrecognized,2015, ,0,0, ,1339, 
+242,243, , , , , , ,Khagrachari,243,Unrecognized,2017, ,0,0, ,2475, 
+243,244, , , , , , ,Khagrachari,244,Fall,2014, ,0,0, ,858, 
+244,245, , , , , , ,Khagrachari,245,Slide,2015, ,0,0, ,1449, 
+245,246, , , , , , ,Khagrachari,246,Slide,2016, ,0,0, ,1080, 
+246,247, , , , , , ,Khagrachari,247,Slide,2016, ,0,0, ,193, 
+247,248,"BSF Camp, Ramgar",Active,Wet,Soil,Nil,Medium,Khagrachari,248,Fall,20/07/2017,Diminishing,0,4,Medium,24,Rainfall and Hill cutting
+248,249,"BSF Camp, Ramgar",Active,Wet,Soil,Medium,Low,Khagrachari,249,Fall,20/07/2017,Diminishing,0,0,Low,17,Rainfall
+249,250,"BSF Camp, Ramgar, On Road",Active,Wet,Soil,Medium,Low,Khagrachari,250,Fall,20/07/2017,Diminishing,0,0,Low,175,Rainfall
+250,251,"BSF Camp, Ramgar, On Road",Active,Wet,Soil,Medium,Low,Khagrachari,251,Slide,20/07/2017,Diminishing,0,0,Low,35,Rainfall
+251,252,"BSF Camp, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,252,Slide,20/07/2017,Diminishing,0,0,Nil,14,Rainfall
+252,253,"BSF Camp, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,253,Flow,20/07/2017,Diminishing,0,0,Nil,46,Rainfall
+253,254,"Masjid Para, Ramgar",Active,Wet,Soil,Nil,Low,Khagrachari,254,Flow,20/07/2017,Advancing,0,0,Nil,80,Rainfall
+254,255,"Amcharipara, Ramgar",Active,Wet,Soil,Nil,Low,Khagrachari,255,Flow,20/07/2017,Advancing,0,0,Nil,71,Rainfall
+255,256,"Amcharipara, Ramgar",Active,Wet,Soil,Nil,Low,Khagrachari,256,Flow,20/07/2017,Advancing,0,0,Nil,112,Rainfall
+256,257,"Amcharipara, Ramgar",Active,Wet,Soil,Nil,Low,Khagrachari,257,Flow,20/07/2017,Advancing,0,0,Nil,59,Rainfall
+257,258,"Amcharipara, Ramgar",Active,Wet,Soil,Nil,Low,Khagrachari,258,Fall,20/07/2017,Advancing,0,0,Nil,97,Rainfall
+258,259,"Madhupur, Ramgar",Active,Wet,Soil,Low,Low,Khagrachari,259,Flow,20/07/2017,Advancing,0,1,Low,11,Rainfall
+259,260,"Nagpa, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,260,Flow,20/07/2017,Advancing,0,0,Nil,17,Rainfall and Hill Cutting
+260,261,"Nagpa, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,261,Flow,20/07/2017,Advancing,0,0,Nil,17,Rainfall and Hill Cutting
+261,262,"Nagpa, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,262,Flow,20/07/2017,Advancing,0,0,Nil,38,Rainfall
+262,263,"Nagpa, Ramgar, On Road",Active,Wet,Debris,Low,Low,Khagrachari,263,Flow,20/07/2017,Diminishing,0,0,Low,17,Rainfall and Farming Activities at the Top
+263,264,"Nagpa, Ramgar, On Road",Active,Wet,Debris,Low,Low,Khagrachari,264,Flow,20/07/2017,Advancing,0,0,Low,31,Rainfall and Farming Activities at the Top
+264,265,"Patachara, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,265,Slide,20/07/2017,Advancing,0,0,Nil,58,Rainfall
+265,266,"Patachara, Ramgar, On Road",Active,Wet,Soil,Medium,Medium,Khagrachari,266,Slide,20/07/2017,Advancing,0,3,Medium,39,Rainfall
+266,267,"Budumchara, Ramgar",Active,Wet,Soil,Low,High,Khagrachari,267,Slide,20/07/2017,Advancing,2,3,High,208,Rainfall and Hill Cutting
+267,268,"Patachara, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,268,Slide,20/07/2017,Advancing,0,0,Nil,51,Rainfall
+268,269,"Patachara, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,269,Slide,20/07/2017,Advancing,0,0,Nil,15,Rainfall
+269,270,"Patachara, Ramgar, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,270,Slide,20/07/2017,Advancing,0,0,Nil,14,Rainfall
+270,271,"Patachara, Ramgarh, On Road",Active,Wet,Debris,Medium,Low,Khagrachari,271,Slide,20/07/2017,Diminishing,0,0,Medium,24,Rainfall and Road Cut
+271,272,"Patachara, Ramgarh, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,272,Slide,20/07/2017,Advancing,0,0,Nil,13,Rainfall
+272,273,"Kalabari, Ramgar",Active,Wet,Mixture,Low,Medium,Khagrachari,273,Slide,20/07/2017,Diminishing,0,2,Medium,48,Rainfall and Hill Cutting
+273,274,"Kalabari, Ramgar, On Road",Active,Wet,Soil,Low,Low,Khagrachari,274,Slide,20/07/2017,Advancing,0,0,Nil,53,Rainfall
+274,275,"Army Camp Commander Bunglow, Guimara",Active,Wet,Soil,Low,Low,Khagrachari,275,Slide,20/07/2017,Advancing,0,0,Nil,86,Rainfall
+275,276,"Army Camp, Guimara, On Road",Active,Wet,Soil,Low,Low,Khagrachari,276,Slide,20/07/2017,Advancing,0,0,Nil,59,Rainfall
+276,277,"Army Camp Commander Bunglow, Guimara",Active,Wet,Soil,Low,Low,Khagrachari,277,Fall,20/07/2017,Advancing,0,0,Nil,61,Rainfall and Hill Cutting
+277,278,"Chowdhury Ghat, Joutho Khamar",Active,Wet,Soil,Low,Low,Khagrachari,278,Fall,20/07/2017,Advancing,0,0,Nil,326,Rainfall
+278,279,"Zia Nagar, Rasulpur",Active,Wet,Soil,Low,Low,Khagrachari,279,Slide,20/07/2017,Advancing,0,1,Low,27,Rainfall
+279,280,Joutho Khamar,Active,Wet,Debris,Low,Low,Khagrachari,280,Slide,20/07/2017,Diminishing,0,0,Low,78,Rainfall
+280,281,Matiranga Residential School,Active,Wet,Soil,Low,High,Khagrachari,281,Slide,20/07/2017,Advancing,0,4,High,41,Rainfall
+281,282,Matiranga Madrasha,Active,Wet,Soil,Low,High,Khagrachari,282,Slide,20/07/2017,Advancing,0,3,High,33,Rainfall
+282,283,Matiranga Dosh Nong,Active,Wet,Soil,Nil,Low,Khagrachari,283,Slide,20/07/2017,Advancing,0,0,Nil,50,Rainfall
+283,284,10 Number Muslimpur,Active,Wet,Soil,Nil,Low,Khagrachari,284,Slide,20/07/2017,Advancing,0,0,Nil,130,Hill Cutting
+284,285,"Bangmara, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,285,Fall,20/07/2017,Advancing,0,0,Nil,175,Rainfall
+285,286,"Sapmara, On Road",Active,Wet,Soil,Medium,Medium,Khagrachari,286,Flow,20/07/2017,Advancing,0,0,Nil,412,Rainfall
+286,287,"Sapmara, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,287,Flow,20/07/2017,Advancing,0,0,Nil,223,Rainfall
+287,288,Richang Jhornar Matha,Active,Wet,Soil,Nil,Low,Khagrachari,288,Flow,20/07/2017,Advancing,0,0,Nil,309,Rainfall
+288,289,Richang er Raster Matha,Active,Wet,Debris,Nil,Low,Khagrachari,289,Slide,20/07/2017,Diminishing,0,0,Nil,94,Rainfall
+289,290,Governmental Rehabilitation Center Road,Active,Wet,Soil,Nil,Low,Khagrachari,290,Slide,20/07/2017,Advancing,0,0,Nil,34,Rainfall
+290,291,Alutila Army Camp,Active,Wet,Soil,Nil,Low,Khagrachari,291,Slide,20/07/2017,Advancing,0,0,Nil,51,Rainfall
+291,292,Big Bridge Police Camp,Active,Wet,Soil,Nil,Low,Khagrachari,292,Fall,20/07/2017,Advancing,0,0,Nil,265,Rainfall
+292,293,Shilachara Bridge,Active,Wet,Soil,Nil,Low,Khagrachari,293,Slide,20/07/2017,Advancing,0,0,Nil,80,Rainfall and Farming on the Slope
+293,294,Alutila International Bon Bhabna Center,Active,Wet,Soil,Nil,Low,Khagrachari,294,Slide,20/07/2017,Diminishing,0,0,Nil,158,Rainfall and Construction Axtivities
+294,295,Alutila International Bon Bhabna Center,Active,Wet,Soil,Nil,Low,Khagrachari,295,Slide,20/07/2017,Advancing,0,0,Nil,61,Rainfall
+295,296,"Alutila International Bon Bhabna Center, On Road",Active,Wet,Soil,Nil,Low,Khagrachari,296,Slide,20/07/2017,Advancing,0,0,Nil,112,Rainfall
+296,297,Alutila Zero Mile,Active,Wet,Soil,Low,Low,Khagrachari,297,Slide,20/07/2017,Advancing,0,0,Nil,35,Rainfall
+297,298,Lenci Bazar,Active,Wet,Soil,Nil,Low,Khagrachari,298,Fall,20/07/2017,Advancing,0,3,Medium,25,Rainfall
+298,299,1 Nong Lanci Bazar,Active,Wet,Mixture,Nil,Low,Khagrachari,299,Slide,20/07/2017,Retrogressive,0,1,Low,12,Raifall
+299,300,Nanci bazar,Suspended,Dry,Soil,Nil,Low,Khagrachari,300,Slide,10/06/2015,Advancing,0,0,Nil,16,Rainfall
+300,301,Nanci bazar,Suspended,Dry,Soil,Nil,Low,Khagrachari,301,Slide,10/06/2015,Advancing,0,0,Nil,34,Rainfall
+301,302,Nanci bazar,Active,Wet,Soil,Nil,Low,Khagrachari,302,Slide,20/07/2017,Advancing,0,2,Medium,37,Rainfall
+302,303,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,303,Slide,20/07/2017,Advancing,0,0,Nil,21,Rainfall
+303,304,Harinath para Gap,Active,Wet,Debris,Nil,Medium,Khagrachari,304,Slide,20/07/2017,Advancing,0,3,Medium,47,Rainfall and Hill Cutting
+304,305,Harinath para Gap,Active,Wet,Soil,Nil,Medium,Khagrachari,305,Slide,11/06/2017,Advancing,0,2,Medium,11,Rainfall
+305,306,Harinath para Gap,Active,Wet,Soil,Nil,Low,Khagrachari,306,Slide,11/06/2017,Advancing,0,0,Nil,15,Rainfall
+306,307,Harinath para Gap,Active,Wet,Soil,Nil,Low,Khagrachari,307,Slide,11/06/2017,Advancing,0,0,Nil,32,Rainfall
+307,308,Harinath para Gap,Active,Wet,Soil,Nil,Low,Khagrachari,308,Slide,11/06/2017,Advancing,0,0,Nil,36,Rainfall
+308,309,Harinath para Gap,Active,Wet,Soil,Nil,Low,Khagrachari,309,Slide,11/06/2017,Advancing,0,0,Nil,77,Rainfall
+309,310,Harinath para,Active,Wet,Soil,Nil,Low,Khagrachari,310,Slide,20/07/2017,Advancing,0,0,Nil,15,Rainfall
+310,311,Harinath para,Active,Wet,Soil,Nil,Low,Khagrachari,311,Slide,20/07/2017,Advancing,0,0,Nil,69,Rainfall
+311,312,Harinath para,Active,Wet,Soil,Nil,Low,Khagrachari,312,Slide,20/07/2017,Advancing,0,0,Nil,15,Rainfall
+312,313,Harinath para,Active,Wet,Soil,Nil,Low,Khagrachari,313,Slide,20/07/2017,Advancing,0,0,Nil,21,Rainfall
+313,314,Harinath para,Active,Wet,Soil,Nil,Low,Khagrachari,314,Slide,20/07/2017,Advancing,0,0,Nil,24,Rainfall
+314,315,Harinath para,Active,Wet,Soil,Nil,Low,Khagrachari,315,Slide,20/07/2017,Advancing,0,0,Nil,85,Rainfall
+315,316,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,316,Slide,20/07/2017,Advancing,0,1,Low,40,Rainfall
+316,317,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,317,Slide,20/06/2017,Advancing,0,0,Nil,19,Rainfall
+317,318,Kadamtali,Active,Wet,Debris,Nil,High,Khagrachari,318,Slide,20/06/2017,Advancing,0,5,High,62,Rainfall and hill Cutting
+318,319,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,319,Slide,20/07/2017,Advancing,0,0,Nil,32,Rainfall
+319,320,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,320,Slide,20/07/2017,Advancing,0,0,Nil,38,Rainfall
+320,321,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,321,Slide,20/07/2017,Advancing,0,0,Nil,63,Rainfall
+321,322,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,322,Slide,20/07/2017,Advancing,0,0,Nil,22,Rainfall
+322,323,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,323,Slide,20/07/2017,Advancing,0,0,Nil,49,Rainfall
+323,324,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,324,Slide,20/07/2017,Advancing,0,0,Nil,72,Rainfall
+324,325,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,325,Slide,20/07/2017,Advancing,0,0,Nil,41,Rainfall
+325,326,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,326,Slide,20/07/2017,Advancing,0,0,Nil,20,Rainfall
+326,327,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,327,Slide,20/07/2017,Advancing,0,0,Nil,49,Rainfall
+327,328,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,328,Slide,20/07/2017,Advancing,0,0,Nil,37,Rainfall
+328,329,Kadamtali,Active,Wet,Soil,Nil,Low,Khagrachari,329,Slide,20/07/2017,Advancing,0,0,Nil,77,Rainfall
+329,330,"Ghagra, Ranirhat,",Active,Wet,Debris,Medium,Medium,Rangamati,330,Slide,13/06/2017,Widening,0,0,Nil,101,Rainfall and Road Cut
+330,331,"Ghagra, Ranirhat,",Active,Wet,Debris,Medium,Medium,Rangamati,331,Flow,13/06/2017,Advancing,0,0,Nil,77,Rainfall
+331,332,"Ghagra, Ranirhat,",Active,Wet,Soil,Low,Low,Rangamati,332,Slide,13/06/2017,Advancing,0,0,Nil,88,Rainfall
+332,333,Ghagra Police Camp,Active,Wet,Soil,Medium,Medium,Rangamati,333,Slide,13/06/2017,Advancing,0,0,Nil,17,Rainfall
+333,334,"Joutha Khamar, Ghagra",Active,Wet,Debris,Low,Low,Rangamati,334,Fall,13/06/2017,Advancing,0,0,Nil,17,Rainfall and Road Cut
+334,335,"Joutha Khamar, Ghagra",Active,Wet,Soil,Medium,Medium,Rangamati,335,Fall,13/06/2017,Advancing,0,0,Nil,24,Rainfall
+335,336,"Joutha Khamar, Ghagra",Active,Wet,Soil,Low,Low,Rangamati,336,Slide,13/06/2017,Advancing,0,0,Nil,61,Rainfall
+336,337,"Chamratoli, Ghagra",Active,Wet,Soil,Medium,Medium,Rangamati,337,Fall,13/06/2017,Advancing,0,2,Medium,27,Rainfall
+337,338,"Chamratoli, Ghagra",Active,Wet,Debris,Low,Low,Rangamati,338,Slide,13/06/2017,Advancing,0,0,Nil,206,Rainfall
+338,339,"Kalabagan, Ghgra",Active,Wet,Soil,Low,Low,Rangamati,339,Fall,13/06/2017,Advancing,0,1,Low,171,Rainfall
+339,340,Ghagra Ansar Camp,Active,Wet,Debris,Nil,Low,Rangamati,340,Fall,13/06/2017,Advancing,0,0,Nil,16,Rainfall
+340,341,Ghagra Ansar Camp,Active,Wet,Debris,Nil,Low,Rangamati,341,Flow,13/06/2017,Advancing,0,0,Nil,79,Rainfall
+341,342,"Chamratali, Ghagra",Active,Wet,Debris,Low,Low,Rangamati,342,Slide,13/06/2017,Advancing,0,0,Nil,41,Rainfall
+342,343,"Army Camp, Ghgra",Active,Wet,Debris,Low,Low,Rangamati,343,Flow,13/06/2017,Advancing,0,2,Medium,514,Rainfall
+343,344,"Kalabagan, Ghagra",Active,Wet,Debris,High,High,Rangamati,344,Fall,13/06/2017,Advancing,0,0,Low,74,Rainfall
+344,345,"Kalabagan, Ghagra",Active,Wet,Debris,High,High,Rangamati,345,Flow,13/06/2017,Advancing,0,0,Low,246,Rainfall
+345,346,"Sapchari, Ghagra",Active,Wet,Debris,Medium,Medium,Rangamati,346,Flow,13/06/2017,Widening,0,0,Nil,579,Rainfall
+346,347,"Manikchari, On Road",Active,Wet,Soil,Low,Low,Rangamati,347,Flow,13/06/2017,Advancing,0,0,Nil,3422,Rainfall
+347,348,"Tetultala, Sapchari",Active,Wet,Debris,Low,Low,Rangamati,348,Flow,13/06/2017,Advancing,0,0,Nil,323,Rainfall
+348,349,"Manikchari, On Road",Active,Wet,Soil,Medium,Medium,Rangamati,349,Complex,13/06/2017,Advancing,0,1,Low,2004,Rainfall
+349,350,"Kalabagan, Ghagra",Active,Wet,Debris,Medium,Medium,Rangamati,350,Flow,13/06/2017,Advancing,0,3,Medium,643,Rainfall
+350,351,"Satchari, On Road",Active,Wet,Debris,Low,Low,Rangamati,351,Flow,13/06/2017,Advancing,0,0,Nil,29,Rainfall
+351,352,"Satchari, On Road",Active,Wet,Debris,Low,Low,Rangamati,352,Flow,13/06/2017,Advancing,0,0,Nil,162,Rainfall
+352,353,"Satchari, On Road",Active,Wet,Soil,Low,Low,Rangamati,353,Slide,13/06/2017,Advancing,0,0,Nil,90,Rainfall
+353,354,"Shapchari, Ghagra",Active,Wet,Soil,Low,Low,Rangamati,354,Fall,13/06/2017,Advancing,0,0,Nil,805,Rainfall
+354,355,"Shapchari, Ghagra",Active,Wet,Soil,Low,Low,Rangamati,355,Slide,13/06/2017,Advancing,0,0,Nil,268,Rainfall
+355,356,"Shatchari, Ghahra",Active,Wet,Soil,High,High,Rangamati,356,Complex,13/06/2017,Advancing,0,0,Nil,3345,Rainfall
+356,357,"Manikchari, On Road",Active,Wet,Soil,Low,Low,Rangamati,357,Fall,13/06/2017,Advancing,0,0,Nil,101,Rainfall
+357,358,"Manikchari, On Road",Active,Wet,Soil,Low,Low,Rangamati,358,Flow,13/06/2017,Advancing,0,0,Nil,547,Rainfall
+358,359,"Manikchari, On Road",Active,Wet,Soil,Low,Low,Rangamati,359,Flow,13/06/2017,Advancing,0,0,Nil,83,Rainfall
+359,360,"Shatchari, Ghahra",Active,Wet,Soil,Low,Low,Rangamati,360,Flow,13/06/2017,Advancing,0,0,Nil,104,Rainfall
+360,361,"Shatchari, Ghahra",Active,Wet,Soil,Low,Low,Rangamati,361,Fall,13/06/2017,Advancing,0,0,Nil,46,Rainfall
+361,362,"Shatchari, Ghahra",Active,Wet,Soil,Low,Low,Rangamati,362,Slide,13/06/2017,Advancing,0,0,Nil,73,Rainfall
+362,363,"Furmon Sadhon Tirtho Bonodhen Center, Satchari",Active,Wet,Soil,Low,Medium,Rangamati,363,Slide,13/06/2017,Advancing,0,4,High,419,Rainfall
+363,364,"Furmon Sadhon Tirtho Bonodhen Center, Satchari",Active,Wet,Soil,Low,Low,Rangamati,364,Slide,13/06/2017,Advancing,0,0,Nil,259,Rainfall
+364,365,"Kathalbagan, Depachari,Manikchari",Active,Wet,Debris,Low,Low,Rangamati,365,Slide,13/06/2017,Advancing,0,0,Nil,387,Rainfall
+365,366,"Manikchari, On Road",Active,Wet,Soil,Low,Low,Rangamati,366,Slide,13/06/2017,Advancing,0,0,Nil,26,Rainfall
+366,367,"Manikchari, On Road",Active,Wet,Soil,High,Medium,Rangamati,367,Slide,13/06/2017,Advancing,0,0,Nil,354,Rianfall
+367,368,"Manikchari, On Road",Active,Wet,Debris,Low,Low,Rangamati,368,Flow,13/06/2017,Advancing,0,0,Nil,87,Rainfall
+368,369,Manikchari Sabek Park,Active,Wet,Debris,Low,Low,Rangamati,369,Flow,13/06/2017,Advancing,0,0,Nil,100,Rainfall
+369,370,Manikchari Sabek Park,Active,Wet,Debris,Low,Low,Rangamati,370,Flow,13/06/2017,Advancing,0,0,Nil,79,Rainfall
+370,371,"Manikchari, On Road",Active,Wet,Debris,Low,Low,Rangamati,371,Flow,13/06/2017,Advancing,0,0,Nil,22,Rainfall
+371,372,"Reserve Mukh, Sadar",Active,Wet,Debris,High,High,Rangamati,372,Flow,13/06/2017,Advancing,0,3,High,102,Rainfall
+372,373,"Somajsheba Office, Sadar",Active,Wet,Debris,Low,Low,Rangamati,373,Flow,13/06/2017,Advancing,0,0,Nil,178,Rainfall
+373,374,"Reserve Bazar, Shaheed Minar, Sadar",Active,Wet,Debris,High,High,Rangamati,374,Flow,13/06/2017,Advancing,0,4,High,56,Rainfall
+374,375,Reserve Bazar,Active,Wet,Debris,Medium,Medium,Rangamati,375,Flow,13/06/2017,Advancing,0,2,Medium,124,Rainfall
+375,376,"Shilpakola Academy, Sadar",Active,Wet,Debris,Low,Low,Rangamati,376,Flow,13/06/2017,Advancing,0,0,Nil,60,Rainfall
+376,377,"Shevron Dental Care, Sadar",Active,Wet,Debris,Low,Low,Rangamati,377,Flow,13/06/2017,Advancing,0,0,Nil,22,Rainfall
+377,378,"Vedvedi Bazar, Sadar",Active,Wet,Debris,Low,Low,Rangamati,378,Flow,13/06/2017,Advancing,0,0,Nil,39,Rainfall
+378,379,"Haji Colony, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,379,Flow,13/06/2017,Advancing,0,2,Medium,15,Rainfall
+379,380,"Haji Colony, Manikchari",Active,Wet,Soil,Nil,Low,Rangamati,380,Slide,13/06/2017,Advancing,0,0,Nil,32,Rainfall
+380,381,"Haji Colony, Manikchari",Active,Wet,Soil,Low,Low,Rangamati,381,Slide,13/06/2017,Moving,0,1,Low,40,Rainfall
+381,382,"Masjid Para, Manikchari",Active,Wet,Soil,Low,Low,Rangamati,382,Fall,13/06/2017,Advancing,0,1,Low,45,Rainfall
+382,383,"Masjid Para, Manikchari",Active,Wet,Debris,Low,Nil,Rangamati,383,Fall,13/06/2017,Advancing,0,1,Low,17,Rainfall
+383,384,"Masjid Para, Manikchari",Active,Wet,Soil,Nil,Nil,Rangamati,384,Flow,13/06/2017,Advancing,0,0,Nil,47,Rainfall
+384,385,"Masjid Para, Manikchari",Active,Wet,Soil,Low,Low,Rangamati,385,Fall,13/06/2017,Advancing,0,1,Low,58,Rainfall
+385,386,"Masjid Para, Manikchari",Active,Wet,Soil,Low,Low,Rangamati,386,Flow,13/06/2017,Advancing,0,0,Nil,25,Rainfall
+386,387,"Manikchari, On Road",Active,Wet,Soil,High,High,Rangamati,387,Complex,13/06/2017,Advancing,6,4,High,51,Load on Top
+387,388,"Manikchari, On Road",Active,Wet,Debris,Nil,Nil,Rangamati,388,Flow,13/06/2017,Advancing,0,0,Low,46,Rainfall
+388,389,"Manikchari, On Road",Active,Wet,Soil,Nil,Nil,Rangamati,389,Flow,13/06/2017,Advancing,0,0,Low,24,Rainfall
+389,390,"Manikchari, On Road",Active,Wet,Debris,Nil,Nil,Rangamati,390,Flow,13/06/2017,Advancing,0,0,Low,38,Rainfall
+390,391,"Manikchari, On Road",Active,Wet,Debris,Nil,Nil,Rangamati,391,Flow,13/06/2017,Advancing,0,0,Low,20,Rainfall
+391,392,"Manikchari, On Road",Active,Wet,Debris,Nil,Nil,Rangamati,392,Fall,13/06/2017,Advancing,0,0,Low,82,Rainfall
+392,393,"Manikchari, On Road",Active,Wet,Debris,Nil,Nil,Rangamati,393,Fall,13/06/2017,Advancing,0,0,Low,29,Rainfall
+393,394,"Manikchari, On Road",Active,Wet,Soil,High,High,Rangamati,394,Flow,13/06/2017,Advancing,0,0,Nil,59,Rainfall
+394,395,"Manikchari, On Road",Active,Wet,Debris,Low,Nil,Rangamati,395,Flow,13/06/2017,Advancing,0,0,Nil,295,Rainfall
+395,396,"Rupnagar, Manikchari",Active,Wet,Debris,Medium,Medium,Rangamati,396,Flow,13/06/2017,Advancing,0,1,Medium,70,Rainfall and Jhum Cultivation
+396,397,"Rupnagar, Manikchari",Active,Wet,Debris,Low,Low,Rangamati,397,Flow,13/06/2017,Advancing,0,0,Low,47,Rainfall
+397,398,"Manikchari, On Road",Active,Wet,Debris,Medium,Medium,Rangamati,398,Complex,13/06/2017,Advancing,0,0,Nil,40,Rainfall
+398,399,"Manikchari, On Road",Active,Wet,Debris,Medium,Medium,Rangamati,399,Complex,13/06/2017,Advancing,0,0,Nil,32,Rainfall
+399,400,"Manikchari, On Road",Active,Wet,Debris,Medium,Medium,Rangamati,400,Complex,13/06/2017,Advancing,0,0,Nil,95,Rainfall
+400,401,"Manikchari, On Road",Active,Wet,Debris,Medium,Medium,Rangamati,401,Complex,13/06/2017,Advancing,0,0,Nil,44,Rainfall
+401,402,"Rupnagar, Manikchari",Active,Wet,Debris,Low,Low,Rangamati,402,Flow,13/06/2017,Advancing,0,0,Low,27,Rainfall
+402,403,"TV Center, Manikchari",Active,Wet,Debris,High,High,Rangamati,403,Complex,13/06/2017,Advancing,0,0,Nil,38,Rainfall
+403,404,"TV Center, Manikchari",Active,Wet,Debris,High,High,Rangamati,404,Complex,13/06/2017,Advancing,0,0,Nil,29,Rainfall
+404,405,"Anandabihar, Tabalchari",Active,Wet,Debris,Low,Medium,Rangamati,405,Flow,13/06/2017,Advancing,0,2,Medium,25,Rainfall
+405,406,"Anandabihar, Tabalchari",Active,Wet,Debris,Nil,Low,Rangamati,406,Flow,13/06/2017,Advancing,0,0,Nil,30,Rianfall
+406,407,"Police Line, Sadar",Active,Wet,Debris,Nil,Medium,Rangamati,407,Flow,13/06/207,Advancing,0,4,High,28,Rainfall
+407,408, , , , , , ,Rangamati,408,Unrecognized,2014, ,0,0, ,8935, 
+408,409, , , , , , ,Rangamati,409,Unrecognized,2014, ,0,0, ,871, 
+409,410, , , , , , ,Rangamati,410,Unrecognized,2016, ,0,0, ,651, 
+410,411, , , , , , ,Rangamati,411,Unrecognized,2014, ,0,0, ,226, 
+411,412, , , , , , ,Rangamati,412,Unrecognized,2014, ,0,0, ,1884, 
+412,413, , , , , , ,Rangamati,413,Slide,2014, ,0,0, ,534, 
+413,414, , , , , , ,Rangamati,414,Slide,2014, ,0,0, ,677, 
+414,415, , , , , , ,Rangamati,415,Flow,2014, ,0,0, ,305, 
+415,416, , , , , , ,Rangamati,416,Slide,2014, ,0,0, ,613, 
+416,417, , , , , , ,Rangamati,417,Flow,2014, ,0,0, ,345, 
+417,418, , , , , , ,Rangamati,418,Unrecognized,2014, ,0,0, ,935, 
+418,419, , , , , , ,Rangamati,419,Unrecognized,2012, ,0,0, ,242, 
+419,420, , , , , , ,Rangamati,420,Unrecognized,2014, ,0,0, ,426, 
+420,421, , , , , , ,Rangamati,421,Unrecognized,2014, ,0,0, ,12334, 
+421,422, , , , , , ,Rangamati,422,Unrecognized,2014, ,0,0, ,635, 
+422,423, , , , , , ,Rangamati,423,Unrecognized,2014, ,0,0, ,790, 
+423,424, , , , , , ,Rangamati,424,Slide,2011, ,0,0, ,57913, 
+424,425, , , , , , ,Rangamati,425,Slide,2014, ,0,0, ,17143, 
+425,426, , , , , , ,Rangamati,426,Flow,2011, ,0,0, ,17200, 
+426,427, , , , , , ,Rangamati,427,Flow,2011, ,0,0, ,14354, 
+427,428, , , , , , ,Rangamati,428,Flow,2011, ,0,0, ,12605, 
+428,429, , , , , , ,Rangamati,429,Unrecognized,2011, ,0,0, ,13751, 
+429,430, , , , , , ,Rangamati,430,Unrecognized,2011, ,0,0, ,11039, 
+430,431, , , , , , ,Rangamati,431,Unrecognized,2011, ,0,0, ,15416, 
+431,432, , , , , , ,Rangamati,432,Unrecognized,2011, ,0,0, ,11185, 
+432,433, , , , , , ,Rangamati,433,Unrecognized,2014, ,0,0, ,40385, 
+433,434, , , , , , ,Rangamati,434,Unrecognized,2014, ,0,0, ,8920, 
+434,435, , , , , , ,Rangamati,435,Unrecognized,2014, ,0,0, ,1991, 
+435,436, , , , , , ,Rangamati,436,Unrecognized,2015, ,0,0, ,44949, 
+436,437, , , , , , ,Rangamati,437,Unrecognized,2014, ,0,0, ,16757, 
+437,438, , , , , , ,Rangamati,438,Unrecognized,2014, ,0,0, ,4307, 
+438,439, , , , , , ,Rangamati,439,Unrecognized,2014, ,0,0, ,2808, 
+439,440, , , , , , ,Rangamati,440,Unrecognized,2016, ,0,0, ,3945, 
+440,441,"Sheikh Russel Eco Park, Kaptai, Rangamati",Active,Wet,Mixture,Nil,Low,Rangamati,441,Fall,13/06/2017,Widening,0,1,Nil,391,Rainfall and Road Cut
+441,442,"Boroichari, Fish Check Post, Kaptai, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,442,Slide,13/06/2017,Advancing,0,0,Nil,28,Rainfall
+442,443,"Noapara Buddhist Temple, Kaptai, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,443,Slide,13/06/2017,Advancing,0,3,Medium,440,Rainfall and Hill Cutting
+443,444,"Noapara, Boroichari, Kaptai, Rangamati",Active,Wet,Soil,Medium,Medium,Rangamati,444,Fall,13/06/2017,Advancing,0,0,Nil,379,Rainfall
+444,445,"Marma para, Boroichari, Kaptai, Rangmati",Active,Wet,Debris,Nil,Low,Rangamati,445,Flow,13/06/2017,Diminishing,0,2,Low,232,Rainfall
+445,446,"Noapara, Boroichari, Kaptai, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,446,Flow,13/06/2017,Advancing,0,1,Low,257,Rainfall
+446,447,"Boroichari, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,447,Flow,13/06/2017,Advancing,0,1,Low,565,Rainfall
+447,448,"Boroichari Sarbojanin Buddisht Temple, Kaptai",Active,Wet,Debris,Low,Medium,Rangamati,448,Flow,13/06/2017,Advancing,0,1,Low,527,Rainfall
+448,449,"Boroichari Sarbojanin Buddisht Temple, Kaptai",Active,Wet,Soil,Low,Low,Rangamati,449,Slide,13/06/2017,Advancing,0,0,Nil,141,Rainfall
+449,450,"Boroichari, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,450,Flow,13/06/2017,Advancing,0,0,Nil,187,Rainfall
+450,451,"Boroichari Market, Marma Para, Kaptai",Active,Wet,Soil,Low,High,Rangamati,451,Fall,13/06/2017,Advancing,0,5,High,137,Rainfall
+451,452,"Kaptai Ansar Camp, Rangamati",Active,Wet,Mixture,Low,Low,Rangamati,452,Fall,13/06/2017,Advancing,0,0,Nil,40,Rainfall and Hill Cutting
+452,453,"Boroichari Market, Marma Para, Kaptai",Active,Wet,Debris,Low,Low,Rangamati,453,Flow,13/06/2017,Advancing,0,0,Nil,276,Rainfall
+453,454,"Panaroma Restaurent, Kaptai",Active,Wet,Mixture,Medium,Medium,Rangamati,454,Flow,13/06/2017,Advancing,0,0,Nil,59,Rainfall and Road Cut
+454,455,"Panaroma Restaurent, Kaptai",Active,Wet,Soil,Low,Low,Rangamati,455,Flow,13/06/2017,Advancing,0,0,Nil,69,Rianfall
+455,456,"Boroichari Sarbojanin Buddisht Temple, Kaptai",Active,Wet,Soil,Low,Low,Rangamati,456,Flow,13/06/2017,Advancing,0,0,Nil,2001,Rainfall
+456,457,"Shilchari, Ansar Camp, Kaptai",Active,Wet,Debris,Low,Low,Rangamati,457,Flow,13/06/2017,Advancing,0,0,Nil,70,Rainfall
+457,458,"Boroichari Market, Marma Para, Kaptai",Active,Wet,Debris,Low,Medium,Rangamati,458,Flow,13/06/2017,Advancing,0,2,Medium,32,Rainfall
+458,459,"Shilchari, Wagha, Kaptai",Active,Wet,Debris,High,Medium,Rangamati,459,Flow,13/06/2017,Advancing,0,0,Nil,66,Rainfall and Road Cut
+459,460,Kaptai National Park,Active,Wet,Debris,Low,Low,Rangamati,460,Flow,13/06/2017,Advancing,0,0,Nil,34,Rainfall
+460,461,"Bangchari, Marmapara, Kaptai",Active,Wet,Debris,Low,Low,Rangamati,461,Flow,13/06/2017,Advancing,0,0,Nil,115,Rainfall
+461,462,"Bangchari, Marmapara, Kaptai",Active,Wet,Debris,Low,Low,Rangamati,462,Flow,13/06/2017,Advancing,0,0,Nil,20,Rainfall
+462,463,"Shilchari, Wagha, Kaptai",Active,Wet,Debris,Low,Low,Rangamati,463,Flow,13/06/2017,Advancing,0,0,Nil,96,Rainfall
+463,464,"Shilchari, Wagha, Kaptai",Active,Wet,Debris,Low,Low,Rangamati,464,Flow,13/06/2017,Advancing,0,0,Nil,43,Rainfall
+464,465,"Assam Basti Vanga Road, Kaptai",Active,Wet,Soil,Low,Low,Rangamati,465,Flow,13/06/2017,Advancing,0,1,Low,908,Rainfall
+465,466,"Assam Basti Vanga Road, Kaptai",Active,Wet,Soil,Nil,Low,Rangamati,466,Flow,13/06/2017,Advancing,0,0,Low,1029,Rainfall
+466,467,"Assam Basti Vanga Road, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,467,Complex,13/06/2017,Advancing,0,0,Nil,973,Rainfall
+467,468,"Assam Basti Vanga Road, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,468,Flow,13/06/2017,Advancing,0,1,Low,340,Rainfall
+468,469,"Assam Basti Vanga Road, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,469,Flow,13/06/2017,Advancing,0,0,Nil,443,Rainfall
+469,470,"Assam Basti Vanga Road, Kaptai",Active,Wet,Mixture,Medium,Low,Rangamati,470,Flow,13/06/2017,Advancing,0,0,Nil,694,Rainfall and Road Cut
+470,471,"Assam Basti Vanga Road, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,471,Flow,13/06/2017,Advancing,0,0,Nil,413,Rainfall
+471,472,"Kamilachari Para, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,472,Flow,13/06/2017,Advancing,0,0,Nil,564,Rainfall
+472,473,"Kamilachari Para, Kaptai",Active,Wet,Soil,Nil,Low,Rangamati,473,Flow,13/06/2017,Advancing,0,0,Nil,61,Rainfall
+473,474,Mogban Smriti Temple,Active,Wet,Mixture,High,High,Rangamati,474,Complex,13/06/2017,Advancing,0,0,Nil,55,Rainfall and Hill Cutting
+474,475,"Kamilachari Para, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,475,Flow,13/06/2017,Advancing,0,0,Nil,59,Rainfall
+475,476,"Kamilachari Para, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,476,Fall,13/06/2017,Advancing,0,0,Nil,29,Rainfall
+476,477,Mogban Union Health Center,Active,Wet,Debris,Nil,Low,Rangamati,477,Fall,13/06/2017,Advancing,0,1,Low,167,Rainfall
+477,478,"Assam Basti Vanga Road, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,478,Slide,13/06/2017,Advancing,0,0,Nil,695,Rainfall
+478,479,Chittagong University, , , ,Nil,Low,Chittagong,479,Topple,2005, ,0,0,Nil,220,Rainfall
+479,480,Chittagong University,Stabilized,Dry,Soil,Nil,Low,Chittagong,480,Flow,01/01/2015,Advancing,0,0,Nil,70,Rainfall
+480,481, , , , , , ,Chittagong,481,Unrecognized,01/01/2015, ,0,0, ,947, 
+481,482, , , , , , ,Chittagong,482,Topple,01/01/2016, ,0,0, ,3368, 
+482,483, , , , , , ,Chittagong,483,Topple,2016, ,0,0, ,5073, 
+483,484, , , , , , ,Chittagong,484,Complex,2016, ,0,0, ,4377, 
+484,485, , , , , , ,Chittagong,485,Slide,2016, ,0,0, ,647, 
+485,486, , , , , , ,Chittagong,486,Slide,2016, ,0,0, ,2381, 
+486,487, , , , , , ,Chittagong,487,Slide,2014, ,0,0, ,993, 
+487,488, , , , , , ,Chittagong,488,Slide,2014, ,0,0, ,69, 
+488,489, , , , , , ,Chittagong,489,Unrecognized,2014, ,0,0, ,2293, 
+489,490, , , , , , ,Chittagong,490,Unrecognized,2016, ,0,0, ,1331, 
+490,491, , , , , , ,Chittagong,491,Unrecognized,2015, ,0,0, ,700, 
+491,492, , , , , , ,Chittagong,492,Unrecognized,2016, ,0,0, ,426, 
+492,493, , , , , , ,Chittagong,493,Unrecognized,2006, ,0,0, ,3383, 
+493,494, , , , , , ,Chittagong,494,Unrecognized,2013, ,0,0, ,340, 
+494,495, , , , , , ,Chittagong,495,Unrecognized,2014, ,0,0, ,243, 
+495,496, , , , , , ,Chittagong,496,Slide,2014, ,0,0, ,219, 
+496,497, , , , , , ,Chittagong,497,Fall,2013, ,0,0, ,51, 
+497,498, , , , , , ,Chittagong,498,Fall,2014, ,0,0, ,28, 
+498,499, , , , , , ,Chittagong,499,Fall,2014, ,0,0, ,59, 
+499,500,Motijhorna,Stabilized, , , , ,Chittagong,500,Fall,28/07/2013, ,2,0, ,90,Rainfall
+500,501,"Masjid para, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,501,Slide,13/06/207,Advancing,0,0,Nil,21,Rainfall
+501,502,"Masjid Para, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,502,Slide,13/06/207,Advancing,0,0,Nil,44,Rainfall
+502,503,"Masjid Para, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,503,Slide,13/06/207,Advancing,0,0,Nil,20,Rainfall
+503,504,"Masjid Para, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,504,Slide,13/06/207,Advancing,0,0,Nil,39,Rainfall
+504,505,"Masjid Para, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,505,Slide,13/06/207,Advancing,0,0,Nil,39,Rainfall
+505,506,"Manikchari, On Road",Active,Wet,Debris,Nil,Low,Rangamati,506,Slide,13/06/207,Advancing,0,0,Nil,79,Rainfall
+506,507,"Manikchari, On Road",Active,Wet,Debris,Nil,Low,Rangamati,507,Slide,13/06/207,Advancing,0,0,Nil,16,Rainfall
+507,508,"Masjid Para, Manikchari",Active,Wet,Debris,Nil,Low,Rangamati,508,Slide,13/06/207,Advancing,0,0,Nil,27,Rainfall
+508,509,"Manikchari, On Road",Active,Wet,Soil,Nil,Low,Rangamati,509,Slide,13/06/207,Advancing,0,0,Nil,514,Rainfall
+509,510,"Manikchari, On Road",Active,Wet,Soil,Nil,Low,Rangamati,510,Slide,13/06/207,Advancing,0,0,Nil,171,Rainfall
+510,511,"Manikchari, On Road",Active,Wet,Debris,Nil,Low,Rangamati,511,Slide,13/06/207,Advancing,0,0,Nil,743,Rainfall
+511,512,"Manikchari, On Road",Active,Wet,Debris,Nil,Low,Rangamati,512,Slide,13/06/207,Advancing,0,0,Nil,74,Rainfall
+512,513,"Manikchari, On Road",Active,Wet,Debris,Nil,Low,Rangamati,513,Slide,13/06/207,Advancing,0,0,Nil,82,Rainfall
+513,514,"Rupnagar, Sadar",Active,Wet,Debris,High,High,Rangamati,514,Slide,13/06/2017,Advancing,3,2,High,3345,Rainfall
+514,515,"Rupnagar, Sadar",Active,Wet,Soil,Low,Low,Rangamati,515,Slide,13/06/2017,Advancing,0,0,Low,89,Rainfall
+515,516,"Rupnagar, Sadar",Active,Wet,Debris,Nil,Nil,Rangamati,516,Slide,13/06/2017,Advancing,0,2,Medium,75,Rainfall
+516,517,"Rupnagar, Sadar",Active,Wet,Debris,Nil,Nil,Rangamati,517,Slide,13/06/2017,Advancing,0,0,Nil,102,Rainfall
+517,518,"TV Center, Rangamati",Active,Wet,Debris,Nil,Low,Rangamati,518,Slide,13/06/2017,Advancing,0,0,Nil,181,Rainfall
+518,519,"TV Center, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,519,Slide,13/06/2017,Advancing,0,0,Nil,74,Rainfall
+519,520,"TV Center, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,520,Slide,13/06/2017,Advancing,0,0,Nil,40,Rainfall
+520,521,"Passport Office, Rangmati Sadar",Active,Wet,Soil,Nil,Low,Rangamati,521,Complex,13/06/2017,Advancing,0,0,Nil,22,Rainfall
+521,522,"Passport Office, Rangmati Sadar",Active,Wet,Soil,Nil,Low,Rangamati,522,Slide,13/06/2017,Advancing,0,0,Nil,70,Rainfall
+522,523,"Rangamati Jail, Sadar",Active,Wet,Debris,Low,Low,Rangamati,523,Slide,13/06/2017,Advancing,0,2,Medium,46,Rainfall
+523,524,"Bandhu Jishu Tila, Sadar",Active,Wet,Soil,Nil,High,Rangamati,524,Slide,13/06/2017,Advancing,0,4,High,23,Rainfall
+524,525,"Keranipahar, Sadar",Active,Wet,Soil,Low,Low,Rangamati,525,Slide,13/06/2017,Advancing,0,0,Nil,61,Rainfall
+525,526,"Keranipahar, Sadar",Active,Wet,Soil,Low,Low,Rangamati,526,Slide,13/06/2017,Advancing,0,0,Nil,20,Rainfall
+526,527,"Keranipahar, Sadar",Active,Wet,Soil,Low,Low,Rangamati,527,Slide,13/06/2017,Advancing,0,0,Nil,28,Rainfall
+527,528,"Keranipahar, Sadar",Active,Wet,Soil,Low,Low,Rangamati,528,Slide,13/06/2017,Advancing,0,0,Nil,18,Rainfall
+528,529,"Keranipahar, Sadar",Active,Wet,Soil,Low,Low,Rangamati,529,Slide,13/06/2017,Advancing,0,0,Nil,18,Rainfall
+529,530,"Keranipahar, Sadar",Active,Wet,Debris,Medium,Medium,Rangamati,530,Slide,13/06/2017,Advancing,0,0,Nil,28,Rainfall
+530,531,"Keranipahar, Sadar",Active,Wet,Debris,Medium,Medium,Rangamati,531,Slide,13/06/2017,Advancing,0,0,Nil,28,Rainfall
+531,532,Chittagong Cantonment,Active,Wet,Soil,Nil,Low,Chittagong,532,Fall,15/06/2017,Advancing,0,0,Nil,256,Rainfall
+532,533,Motijhorna,Stabilized, , , , ,Chittagong,533,Fall,28/07/2013, ,2,0, ,116,Rainfall
+533,534,Tankir Pahar,Active, , , , ,Chittagong,534,Topple,11/06/2007, ,0,0, ,11,Rainfall
+534,535,Chanmari Bi Lane,Stabilized, , , , ,Chittagong,535,Topple,22/06/2014, ,0,0, ,15,Rainfall
+535,536,Tankir Pahar,Reactivated, , , , ,Chittagong,536,Slide,01/01/2013, ,22,0, ,332,Rainfall
+536,537,Tankir Pahar,Reactivated, , , , ,Chittagong,537,Slide,15/06/2010, ,0,0, ,211,Rainfall
+537,538,Batali Hill,Active, , , , ,Chittagong,538,Fall,23/08/2008, ,0,0, ,59,Rainfall
+538,539,Batali Hill,Active, , , , ,Chittagong,539,Fall,01/07/2011, ,0,0, ,127,Rainfall
+539,540,Tiger Pass,Active, , , , ,Chittagong,540,Topple,01/07/2011, ,17,0, ,427,Rainfall
+540,541,Lebu bagan,Dormant, , , , ,Chittagong,541,Slide,11/06/2007, ,30,0, ,758,Rainfall
+541,542,Lebu bagan,Dormant, , , , ,Chittagong,542,Topple,11/06/2007, ,5,0, ,85,Rainfall
+542,543,Lebu bagan,Dormant, , , , ,Chittagong,543,Topple,11/06/2007, ,2,0, ,50,Rainfall
+543,544,Kaichaghona,Stabilized, , , , ,Chittagong,544,Topple,11/06/2007, ,2,0, ,146,Rainfall
+544,545,Kaichaghona,Stabilized, , , , ,Chittagong,545,Topple,11/06/2007, ,7,0, ,582,Rainfall
+545,546,Lebu Bagan,Dormant, , , , ,Chittagong,546,Slide,11/06/2007, ,40,0, ,1360,Rainfall
+546,547,Sekandar Para,Stabilized, , , , ,Chittagong,547,Slide,11/06/2007, ,3,0, ,182,Rainfall
+547,548,Sekandar Para,Stabilized, , , , ,Chittagong,548,Slide,11/06/2007, ,2,0, ,199,Rainfall
+548,549,Sekandar Para,Stabilized, , , , ,Chittagong,549,Slide,11/06/2007, ,4,0, ,212,Rainfall
+549,550,Espahani Hill,Active, , , , ,Chittagong,550,Fall,2007, ,0,0, ,233,Rainfall
+550,551,Kusumbagh,Active, , , , ,Chittagong,551,Fall,2007, ,0,0, ,153,Rainfall
+551,552,Akbar Shah Hill,Active, , , , ,Chittagong,552,Fall,11/06/2007, ,7,0, ,213,Rainfall
+552,553,Gol Pahar,Active, , , , ,Chittagong,553,Fall,1990, ,0,0, ,105,Rainfall
+553,554,Gol Pahar,Active, , , , ,Chittagong,554,Fall,1990, ,0,0, ,157,Rainfall
+554,555,Gol Pahar,Active, , , , ,Chittagong,555,Slide,1990, ,0,0, ,78,Rainfall
+555,556,Foy'z Lake Observatory,Active, , , , ,Chittagong,556,Slide,26/06/2012, ,0,0, ,457,Rainfall
+556,557,Foy'z Lake Zoo Hill,Active, , , , ,Chittagong,557,Fall,26/06/2012, ,0,0, ,46,Rainfall
+557,558,Foy'z Lake Zoo Hill,Active, , , , ,Chittagong,558,Slide,26/06/2012, ,0,0, ,233,Rainfall
+558,559,Foy'z Lake Zoo Hill,Active, , , , ,Chittagong,559,Slide,26/06/2012, ,0,0, ,209,Rainfall
+559,560,Nasirabad Housing,Active, , , , ,Chittagong,560,Slide,03/08/2005, ,0,0, ,243,Rainfall
+560,561,Jakir Hossain Road,Active, , , , ,Chittagong,561,Fall,28/07/2013, ,0,0, ,56,Rainfall
+561,562,Holy Crescent,Active, , , , ,Chittagong,562,Slide,28/07/2013, ,0,0, ,52,Rainfall
+562,563,Medical Hill,Active, , , , ,Chittagong,563,Fall,2014, ,0,0, ,16,Rainfall
+563,564,Medical Hill,Active, , , , ,Chittagong,564,Fall,2014, ,0,0, ,32,Rainfall
+564,565,Medical Hall,Active, , , , ,Chittagong,565,Fall,01/07/2011, ,0,0, ,136,Rainfall
+565,566,A K Khan Hill,Active, , , , ,Chittagong,566,Fall,28/07/2013, ,0,0, ,33,Rainfall
+566,567,Amin Textile,Active, , , , ,Chittagong,567,Topple, , ,0,0, ,81,Rainfall
+567,568,Amin textile,Active, , , , ,Chittagong,568,Topple, , ,0,0, ,50,Rainfall
+568,569,Blossom Garden,Active, , , , ,Chittagong,569,Slide,2000, ,0,0, ,24,Rainfall
+569,570,Rangunia Eco Park,Active,Wet,Soil,Nil,Low,Chittagong,570,Slide,15/06/217,Advancing,0,0,Nil,334,Rainfall
+570,571,Rangunia Eco park,Active,Wet,Soil,Nil,Low,Chittagong,571,Flow,15/06/217,Advancing,0,0,Nil,68,Rainfall
+571,572,Rangunia Eco park,Active,Wet,Soil,Nil,Low,Chittagong,572,Flow,15/06/217,Advancing,0,0,Nil,285,Rainfall
+572,573,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,573,Flow,15/06/2017,Advancing,0,2,Medium,29,Rainfall and Hill Cutting
+573,574,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,574,Flow,15/06/2017,Advancing,0,0,Low,20,Rainfall
+574,575,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,575,Flow,15/06/2017,Advancing,0,0,Low,32,Rainfall
+575,576,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,576,Flow,15/06/2017,Advancing,0,0,Low,14,Rainfall
+576,577,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,577,Flow,15/06/2017,Advancing,0,0,Low,14,Rainfall
+577,578,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,578,Flow,15/06/2017,Advancing,0,0,Low,20,Rainfall
+578,579,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,579,Flow,15/06/2017,Advancing,0,0,Low,24,Rainfall
+579,580,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,580,Flow,15/06/2017,Advancing,0,0,Low,22,Rainfall
+580,581,Purbo Hasnabad,Active,Wet,Soil,Nil,Low,Chittagong,581,Flow,15/06/2017,Advancing,0,0,Low,41,Rainfall
+581,582,Hathazari Cantonment Road,Active,Wet,Debris,Low,Low,Chittagong,582,Slide,15/06/2017,Advancing,0,0,Nil,47,Rainfall
+582,583,Hathazari Cantonment Road,Active,Wet,Debris,Low,Low,Chittagong,583,Slide,15/06/2017,Advancing,0,0,Nil,55,Rainfall
+583,584,Hathazari Cantonment 3 Number Bazar,Active,Wet,Soil,Nil,Low,Chittagong,584,Fall,15/06/2017,Advancing,0,0,Nil,33,Rainfall and Hill Cutting
+584,585,Hathazari Cantonment 3 Number Bazar,Active,Wet,Debris,Nil,High,Chittagong,585,Flow,15/06/2017,Advancing,0,6,High,31,Rainfall and Hill Cutting
+585,586,Hathazari Cantonment 3 Number Bazar,Active,Wet,Soil,Nil,Low,Chittagong,586,Complex,15/06/2017,Advancing,0,0,Nil,16,Rainfall and Hill Cutting
+586,587,Hathazari Cantonment 3 Number Bazar,Active,Wet,Soil,Nil,Low,Chittagong,587,Topple,15/06/2017,Advancing,0,0,Nil,57,Rainfall and Hill Cutting
+587,588,Hathazari Cantonment 3 Number Bazar,Active,Wet,Soil,Nil,Medium,Chittagong,588,Fall,15/06/2017,Advancing,0,2,Medium,17,Rainfall and Hill Cutting
+588,589,Hathazari Cantonment 3 Number Bazar,Active,Wet,Soil,Nil,Medium,Chittagong,589,Flow,15/06/2017,Advancing,0,2,Medium,15,Rainfall and Hill Cutting
+589,590,Chittagong University,Stabilized,Dry,Soil,Nil,Low,Chittagong,590,Slide,2017,Retrogressive,0,0,Nil,95,Rainfall
+590,591,Chittagong University,Stabilized,Dry,Soil,Nil,Nil,Chittagong,591,Flow, ,Advancing,0,0,Nil,80,Rainfall
+591,592,Chittagong University,Stabilized,Dry,Soil,Nil,Nil,Chittagong,592,Slide, ,Advancing,0,0,Nil,74,Rainfall
+592,593,Chittagong University,Active,Wet,Soil,Nil,Nil,Chittagong,593,Flow, ,Advancing,0,0,Nil,204,Rainfall
+593,594,Chittagong University, , , , , ,Chittagong,594,Topple,11/06/2007, ,0,0, ,390,Rainfall
+594,595,Chittagong University, , , , , ,Chittagong,595,Topple,11/06/2007, ,0,0, ,313,Rainfall
+595,596,Chittagong University,Active,Wet,Soil,Nil,Nil,Chittagong,596,Flow, ,Advancing,0,0,Nil,25,Rainfall
+596,597,"Old Hospital, Chittagong University",Stabilized,Dry,Soil,Nil,Nil,Chittagong,597,Slide, ,Advancing,0,0,Nil,30,Rainfall
+597,598,"Family Well Fare Office, Rangunia",Active,Wet,Soil,Nil,Nil,Chittagong,598,Flow,15/06/2017,Advancing,0,0,Nil,19,Rainfall
+598,599,Gomra,Active,Wet,Soil,Nil,Nil,Chittagong,599,Flow,15/06/2017,Advancing,0,0,Nil,66,Rainfall
+599,600,Gomra,Active,Wet,Soil,Nil,Nil,Chittagong,600,Flow,15/06/2017,Advancing,0,0,Nil,64,Rainfall
+600,601,Gomra,Active,Wet,Soil,Nil,Low,Chittagong,601,Fall,15/06/2017,Advancing,0,2,Low,23,Rainfall
+601,602,Ghagra Ranirhat,Active,Wet,Soil,Low,Low,Chittagong,602,Fall,13/06/2017,Advancing,0,0,Nil,59,Rainfall
+602,603,Ghagra Ranirhat,Active,Wet,Soil,Low,Low,Chittagong,603,Fall,13/06/2017,Advancing,0,0,Nil,85,Rainfall
+603,604,"Mogachari, Gabtali",Active,Wet,Soil,Low,Low,Chittagong,604,Fall,13/06/2017,Advancing,0,0,Nil,95,Rainfall
+604,605,"Ranirhat, Ghagra",Active,Wet,Soil,Low,Low,Chittagong,605,Slide,13/06/2017,Advancing,0,0,Nil,22,Rainfall
+605,606,"Ranirhat, Ghagra",Active,Wet,Soil,Low,Low,Chittagong,606,Fall,13/06/2017,Advancing,0,0,Nil,34,Rainfall
+606,607,"Ranirhat, Ghagra",Active,Wet,Soil,Low,Low,Chittagong,607,Fall,13/06/2017,Advancing,0,0,Nil,20,Rainfall
+607,608, , , , , , ,Chittagong,608,Slide,2013, ,0,0, ,393, 
+608,609, , , , , , ,Chittagong,609,Slide,2013, ,0,0, ,283, 
+609,610, , , , , , ,Chittagong,610,Unrecognized,2014, ,0,0, ,472, 
+610,611, , , , , , ,Chittagong,611,Unrecognized,2000, ,0,0, ,391, 
+611,612, , , , , , ,Chittagong,612,Unrecognized,2008, ,0,0, ,896, 
+612,613, ,Active, , , , ,Chittagong,613,Unrecognized,2004, ,0,0, ,153,Rainfall
+613,614, ,Active, , , , ,Chittagong,614,Unrecognized,2007, ,1,0, ,243,Rainfall
+614,615, , , , , , ,Chittagong,615,Slide,2007, ,0,0, ,409, 
+615,616,AKS Brick Field,Active, , , , ,Chittagong,616,Slide,2007, ,0,0, ,301,Rainfall
+616,617,Lal Pahar, , , , , ,Chittagong,617,Slide,2014, ,0,0, ,154, 
+617,618, , , , , , ,Chittagong,618,Fall,2012, ,0,0, ,231, 
+618,619, , , , , , ,Chittagong,619,Slide,2005, ,0,0, ,611, 
+619,620, , , , , , ,Chittagong,620,Slide,2005, ,0,0, ,86, 
+620,621, , , , , , ,Chittagong,621,Fall,2005, ,0,0, ,295, 
+621,622, , , , , , ,Chittagong,622,Slide,2004, ,0,0, ,197, 
+622,623, , , , , , ,Chittagong,623,Fall,2004, ,0,0, ,220, 
+623,624, , , , , , ,Chittagong,624,Topple,2007, ,0,0, ,78, 
+624,625, , , , , , ,Chittagong,625,Fall,2007, ,0,0, ,471, 
+625,626, , , , , , ,Chittagong,626,Fall,2007, ,0,0, ,138, 
+626,627, , , , , , ,Chittagong,627,Fall,2007, ,0,0, ,77, 
+627,628, , , , , , ,Chittagong,628,Slide,2007, ,0,0, ,369, 
+628,629, , , , , , ,Chittagong,629,Slide,2007, ,0,0, ,629, 
+629,630, , , , , , ,Chittagong,630,Slide,2007, ,0,0, ,98, 
+630,631, , , , , , ,Chittagong,631,Slide,2007, ,0,0, ,156, 
+631,632, , , , , , ,Chittagong,632,Slide,2007, ,0,0, ,129, 
+632,633, , , , , , ,Chittagong,633,Fall,2007, ,0,0, ,401, 
+633,634, , , , , , ,Chittagong,634,Fall,2007, ,0,0, ,1400, 
+634,635, , , , , , ,Chittagong,635,Slide,2007, ,0,0, ,514, 
+635,636, , , , , , ,Chittagong,636,Slide,2007, ,0,0, ,280, 
+636,637, , , , , , ,Chittagong,637,Slide,2007, ,0,0, ,166, 
+637,638, , , , , , ,Chittagong,638,Flow,2007, ,0,0, ,103, 
+638,639, , , , , , ,Chittagong,639,Slide,2007, ,0,0, ,544, 
+639,640, , , , , , ,Chittagong,640,Slide,2007, ,0,0, ,384, 
+640,641, , , , , , ,Chittagong,641,Fall,2007, ,0,0, ,592, 
+641,642, , , , , , ,Chittagong,642,Flow,2007, ,0,0, ,207, 
+642,643, , , , , , ,Chittagong,643,Flow,2007, ,0,0, ,419, 
+643,644, , , , , , ,Chittagong,644,Slide,2007, ,0,0, ,209, 
+644,645, , , , , , ,Chittagong,645,Slide,2007, ,0,0, ,151, 
+645,646, , , , , , ,Chittagong,646,Flow,2007, ,0,0, ,123, 
+646,647, , , , , , ,Chittagong,647,Slide,2007, ,0,0, ,594, 
+647,648, , , , , , ,Chittagong,648,Slide,2007, ,0,0, ,636, 
+648,649, , , , , , ,Chittagong,649,Slide,2007, ,0,0, ,249, 
+649,650, , , , , , ,Chittagong,650,Slide,2017, ,0,0, ,217, 
+650,651, , , , , , ,Chittagong,651,Flow,2007, ,0,0, ,242, 
+651,652, , , , , , ,Chittagong,652,Fall,2017, ,0,0, ,128, 
+652,653, , , , , , ,Chittagong,653,Slide,2015, ,0,0, ,346, 
+653,654, , , , , , ,Chittagong,654,Fall,2015, ,0,0, ,538, 
+654,655, , , , , , ,Chittagong,655,Slide,2007, ,0,0, ,546, 
+655,656, , , , , , ,Chittagong,656,Slide,2007, ,0,0, ,657, 
+656,657, , , , , , ,Chittagong,657,Slide,2007, ,0,0, ,198, 
+657,658, , , , , , ,Chittagong,658,Slide,2007, ,0,0, ,841, 
+658,659, , , , , , ,Chittagong,659,Slide,2007, ,0,0, ,924, 
+659,660, , , , , , ,Chittagong,660,Slide,2005, ,0,0, ,1420, 
+660,661, , , , , , ,Chittagong,661,Slide,2004, ,0,0, ,196, 
+661,662, , , , , , ,Chittagong,662,Slide,2001, ,0,0, ,1673, 
+662,663, , , , , , ,Chittagong,663,Slide,2001, ,0,0, ,660, 
+663,664, , , , , , ,Chittagong,664,Slide,2004, ,0,0, ,4097, 
+664,665, , , , , , ,Chittagong,665,Fall,2004, ,0,0, ,780, 
+665,666, , , , , , ,Chittagong,666,Topple,2004, ,0,0, ,594, 
+666,667, , , , , , ,Chittagong,667,Slide,2004, ,0,0, ,552, 
+667,668, , , , , , ,Chittagong,668,Flow,2005, ,0,0, ,328, 
+668,669, , , , , , ,Chittagong,669,Flow,2005, ,0,0, ,658, 
+669,670, , , , , , ,Chittagong,670,Slide,2013, ,0,0, ,150, 
+670,671, , , , , , ,Chittagong,671,Flow,2015, ,0,0, ,3223, 
+671,672, , , , , , ,Chittagong,672,Slide,2004, ,0,0, ,15296, 
+672,673, , , , , , ,Chittagong,673,Fall,2013, ,0,0, ,313, 
+673,674, , , , , , ,Chittagong,674,Flow,2013, ,0,0, ,460, 
+674,675, , , , , , ,Chittagong,675,Slide,2016, ,0,0, ,704, 
+675,676, , , , , , ,Chittagong,676,Flow,2013, ,0,0, ,165, 
+676,677, , , , , , ,Chittagong,677,Slide,2013, ,0,0, ,99, 
+677,678, , , , , , ,Chittagong,678,Slide,2013, ,0,0, ,2404, 
+678,679, , , , , , ,Chittagong,679,Slide,2006, ,0,0, ,290, 
+679,680, , , , , , ,Chittagong,680,Flow,2013, ,0,0, ,792, 
+680,681, , , , , , ,Chittagong,681,Slide,2013, ,0,0, ,624, 
+681,682, , , , , , ,Chittagong,682,Flow,2013, ,0,0, ,158, 
+682,683, , , , , , ,Chittagong,683,Slide,2013, ,0,0, ,213, 
+683,684, , , , , , ,Chittagong,684,Slide,2013, ,0,0, ,165, 
+684,685, , , , , , ,Chittagong,685,Slide,2013, ,0,0, ,287, 
+685,686, , , , , , ,Chittagong,686,Slide,2013, ,0,0, ,225, 
+686,687, , , , , , ,Chittagong,687,Slide,2013, ,0,0, ,264, 
+687,688, , , , , , ,Chittagong,688,Slide,2013, ,0,0, ,215, 
+688,689, , , , , , ,Chittagong,689,Flow,2013, ,0,0, ,1830, 
+689,690, , , , , , ,Chittagong,690,Flow,2013, ,0,0, ,678, 
+690,691, , , , , , ,Chittagong,691,Slide,2013, ,0,0, ,1183, 
+691,692, , , , , , ,Chittagong,692,Slide,2013, ,0,0, ,499, 
+692,693, , , , , , ,Chittagong,693,Slide,2013, ,0,0, ,569, 
+693,694, , , , , , ,Chittagong,694,Slide,2017, ,0,0, ,414, 
+694,695, , , , , , ,Chittagong,695,Flow,2017, ,0,0, ,27242, 
+695,696, , , , , , ,Chittagong,696,Slide,2016, ,0,0, ,415, 
+696,697, , , , , , ,Chittagong,697,Slide,2016, ,0,0, ,424, 
+697,698, , , , , , ,Chittagong,698,Slide,2014, ,0,0, ,1893, 
+698,699, , , , , , ,Chittagong,699,Slide,2014, ,0,0, ,944, 
+699,700, , , , , , ,Chittagong,700,Slide,2014, ,0,0, ,333, 
+700,701, , , , , , ,Chittagong,701,Slide,2014, ,0,0, ,1514, 
+701,702, , , , , , ,Chittagong,702,Fall,2014, ,0,0, ,10978, 
+702,703, , , , , , ,Chittagong,703,Complex,2014, ,0,0, ,1373, 
+703,704, , , , , , ,Chittagong,704,Slide,2014, ,0,0, ,864, 
+704,705, , , , , , ,Chittagong,705,Slide,2016, ,0,0, ,529, 
+705,706, , , , , , ,Chittagong,706,Slide,2016, ,0,0, ,447, 
+706,707, , , , , , ,Chittagong,707,Slide,2014, ,0,0, ,458, 
+707,708, , , , , , ,Chittagong,708,Slide,2014, ,0,0, ,3056, 
+708,709, , , , , , ,Chittagong,709,Slide,2014, ,0,0, ,3429, 
+709,710, , , , , , ,Chittagong,710,Slide,2014, ,0,0, ,915, 
+710,711, , , , , , ,Chittagong,711,Slide,2014, ,0,0, ,445, 
+711,712, , , , , , ,Chittagong,712,Slide,2014, ,0,0, ,3793, 
+712,713, , , , , , ,Chittagong,713,Slide,2014, ,0,0, ,700, 
+713,714, , , , , , ,Chittagong,714,Flow,2014, ,0,0, ,1914, 
+714,715, , , , , , ,Chittagong,715,Slide,2014, ,0,0, ,201, 
+715,716, , , , , , ,Chittagong,716,Slide,2014, ,0,0, ,914, 
+716,717, , , , , , ,Chittagong,717,Slide,2014, ,0,0, ,433, 
+717,718,"Mitingchari, Chandraghona, Kaptai",Active,Wet,Mixture,Nil,Low,Rangamati,718,Complex,13/06/2017,Advancing,0,0,Nil,126,Rainfall
+718,719,Talukdar Para,Active,Wet,Soil,Nil,High,Rangamati,719,Fall,13/06/2017,Advancing,0,5,High,30,Rainfall and Hill Cutting
+719,720,"Mitingchari, Kaptai",Active,Wet,Soil,Nil,High,Rangamati,720,Flow,13/06/2017,Advancing,5,1,High,32,Rainfall
+720,721,"Sheikh Russel Eco Park, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,721,Slide,13/06/2017,Diminishing,0,0,Nil,57,Rainfall
+721,722,"Talukdar Para, Petrol Pump",Active,Wet,Soil,Nil,Low,Rangamati,722,Flow,13/06/2017,Widening,0,0,Nil,16,Rainfall and Hill Cutting
+722,723,"Mitingchari, Kaptai",Active,Wet,Soil,Nil,High,Rangamati,723,Flow,13/06/2017,Advancing,0,2,High,893,Rainfall
+723,724,"Mitingchari, Kaptai",Active,Wet,Debris,Nil,High,Rangamati,724,Flow,13/06/2017,Advancing,0,1,High,40,Rainfall
+724,725,"Mitingchari, Kaptai",Active,Wet,Debris,Nil,High,Rangamati,725,Flow,13/06/2017,Advancing,0,3,High,38,Rainfall
+725,726,"Mitingchari, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,726,Flow,13/06/2017,Advancing,0,0,Nil,52,Rainfall
+726,727,"Mitingchari, Kaptai",Active,Wet,Debris,Nil,Low,Rangamati,727,Flow,13/06/2017,Advancing,0,2,Medium,155,Rainfall
+727,728, Baitunnur Nurani Mosque,Active,Wet,Debris,Nil,High,Rangamati,728,Flow,13/06/2017,Advancing,0,3,High,40,Rainfall
+728,729,"Boroichari, Kaptai",Active,Wet,Soil,Nil,Low,Rangamati,729,Flow,13/06/2017,Advancing,0,0,Low,18,Rainfall
+729,730,"Sheikh Russel Eco Park, Rangamati",Active,Wet,Soil,Nil,Low,Rangamati,730,Fall,13/06/2017,Diminishing,0,0,Nil,1805,Rainfall
